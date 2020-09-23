@@ -1,0 +1,9 @@
+h1{color:#8F8F90;font-family:Courier New;font-size:55px;text-align: center;} 
+body{background-color:#2A3374}
+p{color:#E4E5EF;font-family:Courier New;font-size:22px;text-align: center}
+.center {display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;}
+a{color:#8DC6FC;font-family:Courier New;font-size:14px;text-decoration:none}
+a:hover{color:#0293FE; visited{color:#6F777D}
